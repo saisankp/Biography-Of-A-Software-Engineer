@@ -1,1 +1,2 @@
 # Biography-Of-A-Software-Engineer
+One of the tasks for CSU33012 (Software Engineering) is that we must produce a short (2-4 page) biography of a key software engineer, discussing the work and impact of the individual. I have chosen Jawed Karim, the co-founder of YouTube. He is a software engineer I look up to, and I wrote this biography explaining his background, why I appreciate his work, and how he managed to co-found a billion dollar company.
